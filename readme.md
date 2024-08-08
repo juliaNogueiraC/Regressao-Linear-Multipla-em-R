@@ -30,3 +30,13 @@ Este é o meu primeiro projeto em R, criado para explorar a regressão linear m�
 2. Carregue o Script: Execute o script modelo_regressao.R no R para carregar os dados, criar o modelo, analisar os resultados e gerar previsões.
 
 3. Explore os Resultados: Verifique o resumo do modelo, gráficos de diagnóstico e previsões geradas para entender a relação entre as variáveis.
+
+## Resultados
+ ![image](image_3.png)
+ ![image](image_5.png)
+ ![image](image_6.png)
+ ![image](image_7.png)
+ ![image](image_8.png)
+
+
+ 
